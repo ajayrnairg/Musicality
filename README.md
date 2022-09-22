@@ -1,5 +1,5 @@
 # Musicality
-
+All credits to [dappuniversity](https://github.com/dappuniversity/music_nfts)
 ## Technology Stack & Tools
 
 - Solidity (Writing Smart Contract)
