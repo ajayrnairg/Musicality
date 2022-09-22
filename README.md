@@ -1,4 +1,4 @@
-# NFT Music Player
+# Musicality
 
 ## Technology Stack & Tools
 
@@ -42,7 +42,4 @@ $ npx hardhat node
 ### 7. Launch Frontend
 `$ npm run start`
 
-License
-----
-MIT
 
